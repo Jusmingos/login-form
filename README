@@ -1,0 +1,4 @@
+This simple project is a login form. It takes in a username and a password.
+It can display the password and submit the information. Since it is not actually
+used, the information isn't actually submitted anywhere. This project was
+created to explore Javascript. 
